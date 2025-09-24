@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://i.pinimg.com/originals/64/db/32/64db32b962775f18573ede759f5ec6f2.gif" width = 200px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://i.pinimg.com/originals/d8/e6/eb/d8e6eb6b345ada088e2448947c483ab4.gif" width = 200px></picture></p>
 <h1 align="center">Hi 👋, I'm Angella Jane Raymundo</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raymundo-angellajane&label=Profile%20views&color=0e75b6&style=flat" alt="raymundo-angellajane" /> </p>
