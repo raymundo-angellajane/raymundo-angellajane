@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/eb/d3/fd/ebd3fd57738f70d520937417f66afa47.gif">
 
   
   </td>
@@ -37,7 +37,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=raymundo-angellajane&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raymundo-angellajane&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Angella streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raymundo-angellajane&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
