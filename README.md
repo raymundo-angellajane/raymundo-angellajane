@@ -78,7 +78,11 @@
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" alt="laravel" width="50" height="50"/> </a> 
   <a href="https://typescript.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>
   <a href="https://vuejs.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/VueJS-Light.svg" alt="vuejs" width="50" height="50"/> </a>
-  <a href="https://react.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> </p>
+  <a href="https://react.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://vscode.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="50" height="50"/> </a>
+  <a href="https://python.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://powershell.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/Powershell-Light.svg" alt="powershell" width="50" height="50"/> </a>
+  <a href="https://eclipse.com" target="_blank" rel="noreferrer"> <img src= "https://github.com/Scar1109/skill-icons/blob/main/icons/Eclipse-Light.svg" alt="eclipse" width="50" height="50"/> </a> </p>
 
 ---
 
