@@ -86,7 +86,7 @@
 - Added user settings for profile updates, password changes, and account deletion, with secure authentication and middleware handling
 
 ### UI/UX Designer | Mobile Applications | 2025
-- **Tool:** Figma, Adobe Photoshop
+- **Tools:** Figma, Adobe Photoshop, Canva
 - [Formula 1](https://www.figma.com/proto/jbWrGVGbe4NPXmv0iAYMVj/App-F1?t=qqKSWWDTc3PZJnrh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=124-1489&starting-point-node-id=124%3A1489&show-proto-sidebar=1)
 - [GreenSteps](https://www.figma.com/proto/wdQQ64aisYDIVCTyGdd311/HCI?t=XZ2arWwfX0fwtTUX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=76-27&starting-point-node-id=76%3A27&show-proto-sidebar=1)
 
