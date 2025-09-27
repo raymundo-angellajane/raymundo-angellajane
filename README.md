@@ -49,6 +49,46 @@
 
 <h3 align="center">Professional Experience</h3>
 
+<br>
+
+### Front-End Developer | FilmCurator (Movie Recommendation System) | 2025
+- **Tech Stack:** Python, PyQt5
+- Implementing a content-based recommendation system for personalized movie suggestions
+- Designed and developed a responsive interface with profiles, login, and viewing history
+- Created UI mockups and visual assets in Figma/Photoshop for a polished user experience
+- Collaborated on integrating the recommendation engine with the front-end for seamless interaction
+-Integrated TMDB API for retrieving real-time movie metadata, posters, and genre information
+
+### Front-End Developer | DiskCare (Disk Monitoring System) | 2025
+- **Tech Stack:** Powershell, Windows Forms
+- Built a desktop-based disk monitoring system with real-time tracking of disk activity
+- Designed and implemented interactive UI components (charts, labels, dropdowns) for disk usage, active time, and transfer rate visualization
+- Created a responsive dashboard layout with clear read/write speed indicators and disk space summaries
+- Designed UI mockups and visual assets in Photoshop to guide front-end implementation
+
+### Front-End Developer | Student Management System | 2025
+- **Tech Stack:** Java, Eclipse IDE, SQL Express, CSS, T-SQL
+- Developed a functional system for managing student records, including add, view, update, and delete features
+- Implemented modules for student registration, attendance tracking, grade input, and automatic report card generation
+- Built role-based access and a communication portal for teachers and parents to streamline interaction
+
+### Full Stack Developer | Student Violation Management Module | 2025
+- **Tech Stack:** PHP, MySQL, Laravel, Tailwind CSS, Blade, Javascript, Vite 7
+- Built a Violation Management Module integrated with the [PUPT Registration Site](https://pupt-registration.site/), including violation recording, history tracking, and penalty assignment
+- Implemented role-based access (Teacher: record/report violations, Student: view records) and an appeal request system for students to review or explain violations
+- Designed and developed a responsive UI with Tailwind CSS and added automated violation reports with filtering by student, class, or semester
+
+### Full Stack Developer | Tickora Task Management System | 2025
+- **Tech Stack:** PHP, MySQL, Laravel, Inertia.js, React, TypeScript, Tailwind CSS, Vite
+- Built a task and list management application with user authentication, dashboard displaying statistics on total lists, tasks, completed tasks, and pending tasks along with recent activity
+- Implemented CRUD operations for task lists and individual tasks, including completion status tracking and due date support
+- Developed a responsive UI using React components, Tailwind CSS, and shadcn/ui, integrated with Laravel via Inertia.js for seamless single-page application experience
+- Added user settings for profile updates, password changes, and account deletion, with secure authentication and middleware handling
+
+### UI/UX Designer | Mobile Applications | 2025
+- **Tool:** Figma, Adobe Photoshop
+- [Formula 1](https://www.figma.com/proto/jbWrGVGbe4NPXmv0iAYMVj/App-F1?t=qqKSWWDTc3PZJnrh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=124-1489&starting-point-node-id=124%3A1489&show-proto-sidebar=1)
+- [GreenSteps](https://www.figma.com/proto/wdQQ64aisYDIVCTyGdd311/HCI?t=XZ2arWwfX0fwtTUX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=76-27&starting-point-node-id=76%3A27&show-proto-sidebar=1)
 
 ---
 
