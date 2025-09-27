@@ -55,9 +55,8 @@
 - **Tech Stack:** Python, PyQt5
 - Implementing a content-based recommendation system for personalized movie suggestions
 - Designed and developed a responsive interface with profiles, login, and viewing history
-- Created UI mockups and visual assets in Figma/Photoshop for a polished user experience
 - Collaborated on integrating the recommendation engine with the front-end for seamless interaction
--Integrated TMDB API for retrieving real-time movie metadata, posters, and genre information
+- Integrated TMDB API for retrieving real-time movie metadata, posters, and genre information
 
 ### Front-End Developer | DiskCare (Disk Monitoring System) | 2025
 - **Tech Stack:** Powershell, Windows Forms
