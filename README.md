@@ -47,6 +47,9 @@
 </tr>
 </table>
 
+<h3 align="center">Professional Experience</h3>
+
+
 ---
 
 <h3 align="center">Connect with me:</h3>
