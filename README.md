@@ -48,8 +48,7 @@
 </table>
 
 <h3 align="center">Professional Experience</h3>
-
-<br>
+<p align="center">────────────</p>
 
 ### Front-End Developer | FilmCurator (Movie Recommendation System) | 2025
 - **Tech Stack:** Python, PyQt5
