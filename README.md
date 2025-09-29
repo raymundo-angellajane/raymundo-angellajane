@@ -57,13 +57,6 @@
 - Collaborated on integrating the recommendation engine with the front-end for seamless interaction
 - Integrated TMDB API for retrieving real-time movie metadata, posters, and genre information
 
-### Front-End Developer | DiskCare (Disk Monitoring System) | 2025
-- **Tech Stack:** Powershell, Windows Forms
-- Built a desktop-based disk monitoring system with real-time tracking of disk activity
-- Designed and implemented interactive UI components for disk usage, active time, and transfer rate visualization
-- Created a responsive dashboard layout with clear read/write speed indicators and disk space summaries
-- Designed UI mockups and visual assets in Photoshop to guide front-end implementation
-
 ### Front-End Developer | Student Management System | 2025
 - **Tech Stack:** Java, Eclipse IDE, SQL Express, CSS, T-SQL
 - Developed a functional system for managing student records, including add, view, update, and delete features
