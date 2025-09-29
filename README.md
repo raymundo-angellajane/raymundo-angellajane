@@ -71,13 +71,13 @@
 - Built role-based access and a communication portal for teachers and parents to streamline interaction
 
 ### Full Stack Developer | Student Violation Management Module | 2025
-- **Tech Stack:** PHP, MySQL, Laravel, Tailwind CSS, Blade, Javascript, Vite 7
+- **Tech Stack:** PHP, MySQL Workbench, Laravel, Tailwind CSS, Blade, Javascript, Vite
 - Built a Violation Management Module integrated with the [PUPT Registration Site](https://pupt-registration.site/), including violation recording, history tracking, and penalty assignment
 - Implemented role-based access (Teacher: record/report violations, Student: view records) and an appeal request system for students to review or explain violations
 - Designed and developed a responsive UI with Tailwind CSS and added automated violation reports with filtering by student, class, or semester
 
 ### Full Stack Developer | Tickora Task Management System | 2025
-- **Tech Stack:** PHP, MySQL, Laravel, Inertia.js, React, TypeScript, Tailwind CSS, Vite
+- **Tech Stack:** PHP, MySQL Workbench, Laravel, Inertia.js, React, TypeScript, Tailwind CSS, Vite
 - Built a task and list management application with user authentication, dashboard displaying statistics on total lists, tasks, completed tasks, and pending tasks along with recent activity
 - Implemented CRUD operations for task lists and individual tasks, including completion status tracking and due date support
 - Developed a responsive UI using React components, Tailwind CSS, and shadcn/ui, integrated with Laravel via Inertia.js for seamless single-page application experience
