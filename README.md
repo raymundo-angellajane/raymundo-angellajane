@@ -47,7 +47,7 @@
 </tr>
 </table>
 
-<h3 align="center">Professional Experience</h3>
+<h3 align="center">Experiences</h3>
 <p align="center">────────────</p>
 
 ### Front-End Developer | FilmCurator (Movie Recommendation System) | 2025
