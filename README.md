@@ -78,7 +78,7 @@
 
 ### UI/UX Designer | Mobile Applications | 2025
 - **Tools:** Figma, Adobe Photoshop, Canva
-- [Formula 1] (not yet finished)(https://www.figma.com/proto/jbWrGVGbe4NPXmv0iAYMVj/App-F1?t=qqKSWWDTc3PZJnrh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=124-1489&starting-point-node-id=124%3A1489&show-proto-sidebar=1) - is a figma prototype of a mobile app featuring real-time race updates, driver standings, and an intuitive dashboard for an engaging fan experience.
+- [Formula 1](https://www.figma.com/proto/jbWrGVGbe4NPXmv0iAYMVj/App-F1?t=qqKSWWDTc3PZJnrh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=124-1489&starting-point-node-id=124%3A1489&show-proto-sidebar=1) (not yet finished) - is a figma prototype of a mobile app featuring real-time race updates, driver standings, and an intuitive dashboard for an engaging fan experience.
 - [GreenSteps](https://www.figma.com/proto/wdQQ64aisYDIVCTyGdd311/HCI?t=XZ2arWwfX0fwtTUX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=76-27&starting-point-node-id=76%3A27&show-proto-sidebar=1) - is a figma prototype of a sustainability app that helps users log and track tree planting, join eco-events, and connect with a community making green actions collaborative, and rewarding.
 
 ---
