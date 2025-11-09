@@ -77,8 +77,8 @@
 - Added user settings for profile updates, password changes, and account deletion, with secure authentication and middleware handling
 
 ### Full Stack Developer | Movana (Movie Booking Application) | 2025
-- **Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Stripe, Clerk, Inngest, Cloudinary
-- Built a full-stack movie booking application integrated with payment processing, including movie browsing, seat selection, booking management, and admin dashboard
+- **Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Stripe, Clerk, Inngest, Cloudinary, TMDB API
+- Developed a full-stack movie booking application with end-to-end features including movie browsing, seat selection, booking management, and an admin dashboard. Integrated TMDB API to fetch real-time movie data, posters, and metadata.
 - Implemented user authentication (Clerk), role-based access (User: browse/book movies, Admin: manage shows/bookings), and payment integration with Stripe
 - Designed and developed a responsive UI with Tailwind CSS, added automated email notifications, and implemented background job processing with Inngest
 
