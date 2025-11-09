@@ -76,6 +76,12 @@
 - Developed a responsive UI using React components, Tailwind CSS, and shadcn/ui, integrated with Laravel via Inertia.js for seamless single-page application experience
 - Added user settings for profile updates, password changes, and account deletion, with secure authentication and middleware handling
 
+### Full Stack Developer | Movana (Movie Booking Application) | 2025
+- **Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Stripe, Clerk, Inngest, Cloudinary
+- Built a full-stack movie booking application integrated with payment processing, including movie browsing, seat selection, booking management, and admin dashboard
+- Implemented user authentication (Clerk), role-based access (User: browse/book movies, Admin: manage shows/bookings), and payment integration with Stripe
+- Designed and developed a responsive UI with Tailwind CSS, added automated email notifications, and implemented background job processing with Inngest
+
 ### UI/UX Designer | Mobile Applications | 2025
 - **Tools:** Figma, Adobe Photoshop, Canva
 - [Formula 1](https://www.figma.com/proto/jbWrGVGbe4NPXmv0iAYMVj/App-F1?t=qqKSWWDTc3PZJnrh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=124-1489&starting-point-node-id=124%3A1489&show-proto-sidebar=1) (not yet finished) - is a figma prototype of a mobile app featuring real-time race updates, driver standings, and an intuitive dashboard for an engaging fan experience.
