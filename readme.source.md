@@ -145,9 +145,9 @@
 <div style={{ display: 'flex', gap: 16, width: '100%', height: '100%', fontFamily: 'Inter, sans-serif' }}>
   <a href="https://daily.dev/angellajaneraymundo">
     <img
-      src="https://api.daily.dev/devcards/v2/3V8Tp9n0weSlaBFQarzAu.png?type=default&r=gq8"
+      src="https://api.daily.dev/devcards/v2/mDmagXvKoPodLfQnzIKBl.png?type=default&r=cuz"
       width="260"
-      alt="Allen's Dev Card"
+      alt="Angella Jane Raymundo's Dev Card"
       style={{
         borderRadius: 14,
         boxShadow: '0 10px 30px rgba(0,0,0,.35)',
