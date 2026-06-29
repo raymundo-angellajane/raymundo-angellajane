@@ -143,7 +143,7 @@
 
 ```aura width=800 height=260
 <div style={{ display: 'flex', gap: 16, width: '100%', height: '100%', fontFamily: 'Inter, sans-serif' }}>
-  <a href="https://daily.dev/alleeendev">
+  <a href="https://daily.dev/angellajaneraymundo">
     <img
       src="https://api.daily.dev/devcards/v2/3V8Tp9n0weSlaBFQarzAu.png?type=default&r=gq8"
       width="260"
